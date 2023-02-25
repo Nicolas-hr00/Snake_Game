@@ -34,18 +34,17 @@ The snake game consist on an array x and y axis. The table will be drawn on shap
 
 ## Program Output <a name= "output"></a>
 
-<img src="Images/insertion.png" width="550" height="280">
+<img src="Images/score0.png" width="550" height="280">
 
-<img src="Images/insertion.png" width="550" height="280">
+<img src="Images/score10.png" width="550" height="280">
 
-<img src="Images/insertion.png" width="550" height="280">
+<img src="Images/score20.png" width="550" height="280">
 
-<img src="Images/insertion.png" width="550" height="280">
+<img src="Images/score30.png" width="550" height="280">
 
-<img src="Images/insertion.png" width="550" height="280">
+<img src="Images/score50.png" width="550" height="280">
 
-<img src="Images/insertion.png" width="550" height="280">
+<img src="Images/score100.png" width="550" height="280">
 
-<img src="Images/insertion.png" width="550" height="280">
-
+ 
 
