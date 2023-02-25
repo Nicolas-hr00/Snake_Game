@@ -5,7 +5,7 @@ This repository contains a snake game similar to the one from Nokia. The user wi
 ## Table of Contents 
 
 1. [Description](#description)
-2. [Implementation)(#implementation)
+2. [Implementation](#implementation)
 2. [Compile and Execution](#exe)
 3. [Program Output](#output)
 
